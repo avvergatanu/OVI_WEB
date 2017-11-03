@@ -47,7 +47,17 @@ body{
 
 	color: white; 
 	font-size: 40px; 
+	
 	font-weight: bold;
+}
+
+.span_2{
+
+	color: white; 
+	font-size: 15px; 
+	font-weight: bold;
+	right: 50px;
+	text-align: center;
 }
 
 .td_3{
@@ -77,13 +87,14 @@ body{
 
 footer{
 
-	background: black;  
+	background: #333;  
 	margin: auto; 
 	clear: both; 
 	width:90%; 
 	border-radius:0px; 
 	margin-top:5px;" 
-	border-radius: 20px;
+	border-radius: 5px;
+	color: white;
 }
 
 
